@@ -30,6 +30,19 @@ A care app for dog owners. The source code is private; this page shows what the 
 | AI | Integration with several AI models |
 | Payments | In-app subscriptions with server-side purchase verification |
 
+## Screenshots
+
+<p>
+  <img src="screenshots/01-home.jpg" alt="Home: today's plan" width="230">
+  <img src="screenshots/02-ai-doctor.jpg" alt="AI Doctor" width="230">
+  <img src="screenshots/03-ai-trainer.jpg" alt="AI Trainer" width="230">
+</p>
+<p>
+  <img src="screenshots/04-lost-and-found.jpg" alt="Lost and found" width="230">
+  <img src="screenshots/05-walk.jpg" alt="Walk with a live route" width="230">
+  <img src="screenshots/06-family-access.jpg" alt="Family and access" width="230">
+</p>
+
 ## Contact
 
 Igor Mosur · https://appflow-dev.web.app

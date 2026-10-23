@@ -2,12 +2,12 @@
 
 ![DoggyLife](banner.png)
 
-**[Get it on Google Play](https://play.google.com/store/apps/details?id=app.doggylife.doggy_life)** · iOS: in App Store review
+**[Download on the App Store](https://apps.apple.com/app/id6820760584)** · **[Get it on Google Play](https://play.google.com/store/apps/details?id=app.doggylife.doggy_life)**
 
 A care app for dog owners. The source code is private; this page shows what the app does and how it is built.
 
+**iOS:** live on the [App Store](https://apps.apple.com/app/id6820760584), 19 languages.
 **Android:** live on [Google Play](https://play.google.com/store/apps/details?id=app.doggylife.doggy_life), 178 countries, 19 languages.
-**iOS:** in App Store review.
 
 ## What it does
 

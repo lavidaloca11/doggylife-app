@@ -17,6 +17,7 @@ A care app for dog owners. The source code is private; this page shows what the 
 - Family chat and sitter access
 - Lost and found board with nearby vet clinics and dog parks
 - Collar QR code with a public page for the owner's chosen details
+- Travel with your dog: send a request for a flight, import or paperwork and get connected with a partner company
 
 ## How it is built
 
